@@ -1,0 +1,77 @@
+h1{
+    color: rgb(244, 149, 7);
+   
+}
+
+h2{
+    color: rgb(241, 7, 7);
+}
+
+.sum{
+    color: rgb(241, 152, 9);
+    position: relative;
+    margin-top: 280px; 
+    }
+
+#SaliFoto{
+border: solid rgb(5, 5, 5);
+margin-top: -25px;
+border-width: 2px;
+width: 150px;
+height: 150px;
+border-radius: 30%;
+}
+
+#bancee{
+    align-items: center;
+    font-family: 'ADLaM Display', cursive;
+    font-size: 3rem ;
+}
+
+#bodyy{
+    background-color: rgb(213, 246, 235);
+}
+
+.f{
+    height: 200px;
+}
+
+#sedorf{
+font-family: 'Anton', sans-serif;
+margin-right: 20%;
+margin-left: -55px;
+width: 300px;
+}
+
+#sedorfDiv{
+position: absolute;
+border-width: 5px;
+text-align: center;
+width: 200px;
+height: 200px;
+margin-left: 13px;
+}
+
+div > #bella{
+border: solid black;
+margin-left: 50%;
+margin-top: 20%;
+}
+
+#d1{
+    position: absolute;
+    background-color: black;
+    margin-left: 00px;
+     margin-top: 405px;
+     z-index: -1;
+}
+
+#d2{
+    background-color: rgb(54, 203, 13);
+}
+
+#d3{
+    background-color: rgb(223, 197, 30);
+}
+
+
